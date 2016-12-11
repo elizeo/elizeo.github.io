@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>
+
+  <div class="sharebar">
+    <ul class="share-buttons">
+      <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}&t={{ page.title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/assets/images/flat_web_icon_set/color/Facebook.png"></a></li>
+      <li><a href="https://twitter.com/intent/tweet?source=&text={{ page.title }} {{ site.url }}{{page.url}}" target="_blank" title="Tweet"><img alt="Tweet" src="/assets/images/flat_web_icon_set/color/Twitter.png"></a></li>
+      <li><a href="https://plus.google.com/share?url={{ site.url }}{{page.url}}" target="_blank" title="Share on Google+"><img alt="Share on Google+" src="/assets/images/flat_web_icon_set/color/Google+.png"></a></li>
+      <li><a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{page.url}}&title={{page.title}}&summary=&source={{page.title}}" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="/assets/images/flat_web_icon_set/color/LinkedIn.png"></a></li>
+      <li><a href="mailto:?subject={{page.title}}&body={{ site.url }}{{page.url}}" target="_blank" title="Send email"><img alt="Send email" src="/assets/images/flat_web_icon_set/color/Email.png"></a></li>
+    </ul>
+  </div>
+
+
+{% if page.comments %} 
+
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+      */
+      /*
+      var disqus_config = function () {
+          this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+          this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+          var d = document, s = d.createElement('script');
+          
+          s.src = '//EXAMPLE.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+          
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}
