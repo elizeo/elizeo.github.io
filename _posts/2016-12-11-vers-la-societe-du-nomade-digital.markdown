@@ -2,7 +2,7 @@
 layout: post
 title:  "Vers une société de nomades digitaux"
 date:   2016-12-11 11:42:44 +0100
-comments: false
+comments: true
 categories: nomade digital travail expat
 ---
 Les nomades digitaux sont une nouvelle race d'entrepreneurs qui ont choisi de re-définir leur façon de travailler en s'affranchissant d'un espace physique dédié, au profit d'une liberté de mouvement en théorie illimitée.
@@ -107,7 +107,7 @@ Voici une vidéo sur le sujet par le célèbre Chris the freelancer.
 
 Comme évoqué plus haut, le risque c'est une ghettoïsation de la communauté, mais ça n'a pas l'air d'être un problème majeur pour l'instant.
 
-Ce qui risque d'être un problème à terme, c'est la révolte des locaux face à la montée des prix de l'immobilier. L'arrivée massive d'une communauté étrangère avec un pouvoir d'achat important s'accompagne souvent de ce genre de désagréments. La question est de savoir comment la population locale vivra le problème.
+Ce qui risque d'être un problème à terme, c'est la révolte des locaux face à la montée des prix de l'immobilier. L'arrivée massive d'une communauté étrangère avec un pouvoir d'achat important s'accompagne souvent de ce genre de désagréments. La question est de savoir comment la population locale vivra le changement.
 
 ## Devenir nomade digital
 

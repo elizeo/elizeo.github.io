@@ -2,7 +2,7 @@
 layout: post
 title:  "A propos de la supposée pénurie d'informaticiens"
 date:   2016-12-01 11:42:44 +0100
-comments: false
+comments: true
 categories: penurie informaticiens travail
 ---
 
