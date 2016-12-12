@@ -14,6 +14,11 @@ layout: default
 
 </article>
 
+
+  <div>
+    {% include mailchimp.html %}
+  </div>
+
   <div class="sharebar">
     <ul class="share-buttons">
       <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{page.url}}&t={{ page.title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="/assets/images/flat_web_icon_set/color/Facebook.png"></a></li>
@@ -25,7 +30,6 @@ layout: default
   </div>
 
 
-{% include mailchimp.html %}
 
 {% if page.comments %}
   {% include disqus_comments.html %}
