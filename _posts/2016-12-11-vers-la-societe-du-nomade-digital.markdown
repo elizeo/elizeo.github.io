@@ -35,7 +35,7 @@ La communauté s'organise assez vite autour de lieux de co-working. La langue pr
 
 ## Principaux spots
 
-[Le site nomadlist](https://nomadlist.com/best-cities-for-digital-nomads) permet de trouver un spot facilement en fonction de critères tels que le coût de la vie, la qualité de la connexion internet, ou encore le climat. Il est également possible de discuter avec d'autres nomades digitaux pour se faire une idée plus détaillée.
+[Le site nomadlist](https://nomadlist.com/best-cities-for-digital-nomads){:target="_blank"} permet de trouver un spot facilement en fonction de critères tels que le coût de la vie, la qualité de la connexion internet, ou encore le climat. Il est également possible de discuter avec d'autres nomades digitaux pour se faire une idée plus détaillée.
 
 La Mecque du nomadisme digital est actuellement (2016) Chiang Mai en Thaïlande, même si par ailleurs d'autres endroits semblent prendre de l'importance (notamment aux Philippines).
 
@@ -61,11 +61,11 @@ Vous trouverez également quantité de vloggeurs / bloggeurs qui souvent cumulen
 
 Parmi ces bloggeurs on pourrait notamment citer :
 
-[Chris the Freelancer](http://christhefreelancer.com/).
+[Chris the Freelancer](http://christhefreelancer.com/){:target="_blank"}.
 
 Chris est un australien qui fait du développement logiciel et qui a publie du matériel de formation. Si vous êtes intéressé par le nomadisme digital, il faut absolument s'abonner à son canal YouTube. Il produit du contenu vidéo de qualité et il donne à mon avis une vision assez honnête de ce que pourrait être la vie au jour le jour d'un nomade digital.
 
-[Living that life - Riley Bennett](https://www.youtube.com/channel/UCfKl9cAXbHNJWsZQjAYDjpQ)
+[Living that life - Riley Bennett](https://www.youtube.com/channel/UCfKl9cAXbHNJWsZQjAYDjpQ){:target="_blank"}
 
 Un autre nomade qui fait de la vente sur Amazon. Certaines vidéos sont intéressantes. Il donne notamment dans celle-ci des informations intéressantes sur le coût de la vie à Chiang Mai (anglais) :
 
@@ -75,7 +75,7 @@ Un autre nomade qui fait de la vente sur Amazon. Certaines vidéos sont intéres
         <param name="allowscriptaccess" value="always" />
 </object>
 
-[Psycho Traveller](https://www.youtube.com/channel/UCfBczdzN3Rf86e7liQYbZRg)
+[Psycho Traveller](https://www.youtube.com/channel/UCfBczdzN3Rf86e7liQYbZRg){:target="_blank"}
 
 La vision d'une fille nomade. Contenu également intéressant, peut-être un peu plus personnel que pour les 2 autres.
 
@@ -87,7 +87,7 @@ La vision d'une fille nomade. Contenu également intéressant, peut-être un peu
 
 Il y a aussi 2 français (Stan et Paul) qui tiennent un podcast. J'ai trouvé certains épisodes assez intéressants.
 
-[Nomade digital podcast](http://nomadedigitalpodcast.com/)
+[Nomade digital podcast](http://nomadedigitalpodcast.com/){:target="_blank"}
 
 **Avertissement** : Bien que le mouvement soit relativement récent, il y a beaucoup de charlatans dans cette sphère, notamment sur YouTube. Certains vous donneront une vision idéalisée de leur style de vie, mais ont souvent quelque chose à vendre. Donc, si vous avez un doute, vous avez le droit d'être sceptique !
 
