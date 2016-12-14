@@ -243,20 +243,27 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit * 3;
 
  p {
    text-align: justify;
+    margin-bottom : $spacing-unit;
+ }
+
+ object {
+    margin-bottom : $spacing-unit;
  }
 
   h1 {
     font-family : $base-title-font-family;
     font-size:35px;
     color:$color-title;
+    margin-bottom : $spacing-unit;
   }
 
   h2 {
     margin-top:60px;
+    margin-bottom : $spacing-unit;
     font-size: 25px;
     font-family : $base-title-font-family;
     color:$color-title;
