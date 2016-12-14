@@ -33,6 +33,8 @@ Voici quelques livres intéressants pour enfants dès 8 ans :
 La série Apprendre à coder est composée de 4 livres. Le premier livre s'appuie principalement sur Scratch puis les livres suivants abordent des sujets plus avancés au fur et à mesure. On y apprendra notamment à coder en Logo puis plus en Python et HTML / Javascript. Le lecteur est accompagné par des petits robots qui offrent des précisions en fonction du contexte.
 " %}
 {% assign src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eliblo08-21&marketplace=amazon&region=FR&placement=2711424049&asins=2711424049&linkId=c9d03a57ef7a59ff6223e7ffa3400356&show_border=true&link_opens_in_new_window=true" %}
+{% assign alt_link_text="La programmation facile" %}
+{% assign alt_link_uri="http://amzn.to/2gI3VCI" %}
 {% include amazon_right.html %}
 
 ### J'apprends à programmer tout seul
@@ -42,12 +44,16 @@ La série Apprendre à coder est composée de 4 livres. Le premier livre s'appui
 Le livre est décomposé en séquences. Chaque séquence contient une petit leçon, puis vient un exercice ludique, enfin on explique à quoi sert concrètement dans la vie réelle la notion apprise.
 " %}
 {% assign src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eliblo08-21&marketplace=amazon&region=FR&placement=2047353998&asins=2047353998&linkId=e09aed78b02eae5276d8d359dea190bc&show_border=true&link_opens_in_new_window=true" %}
+{% assign alt_link_text="J'apprends à programmer tout seul" %}
+{% assign alt_link_uri="http://amzn.to/2gI6Awa" %}
 {% include amazon_right.html %}
 
 ### Cahier d'activités Scratch pour les Kids
 
 {% assign text = "Encore un livre sous formaté aventure. Il permet aux enfants de se plonger dans l'univers du parc américain de Yellowstone. Le livre est composé de matériel d'apprentissage et se base sur des ressources disponibles sur internet. Comme pour d'autres formations dans le cadre de Scratch. Le contenu est orienté sur de la programmation d'animations dans un contexte graphique." %}
 {% assign src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eliblo08-21&marketplace=amazon&region=FR&placement=2212142188&asins=2212142188&linkId=a04acaec75a547aa2a7408f6de66571a&show_border=true&link_opens_in_new_window=true" %}
+{% assign alt_link_text="Cahier d'activités Scratch pour les Kids" %}
+{% assign alt_link_uri="http://amzn.to/2gI4a0N" %}
 {% include amazon_right.html %}
 
 ### Python pour les Kids
@@ -58,6 +64,8 @@ L'auteur Jason R. Briggs a réussi un véritable tour de force en réussissant �
 
 L'approche est à nouveau très ludique. On y apprend les bases de la programmation, à dessiner avec une tortue (à la manière de Logo) puis on aborde le développement de jeux avec le personnage M. Filiforme." %}
 {% assign src = "//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eliblo08-21&marketplace=amazon&region=FR&placement=2212140886&asins=2212140886&linkId=46de8b7ba86fec7eb2c8f8b2f154d393&show_border=true&link_opens_in_new_window=true" %}
+{% assign alt_link_text="Python pour les Kids" %}
+{% assign alt_link_uri="http://amzn.to/2hEA7ao" %}
 {% include amazon_right.html %}
 
 ### Le cadeau de rêve
@@ -70,7 +78,6 @@ Il existe quantité de kits disponibles. Souvent ils sont accompagnés d'une lis
 
 Attention tout de même, il est recommandé au papa (du moins au début) de s'impliquer !" %}
 {% assign src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=eliblo08-21&marketplace=amazon&region=FR&placement=B009UKZV0A&asins=B009UKZV0A&linkId=539c6c988f89adc8d3c5079cf5493378&show_border=true&link_opens_in_new_window=true" %}
+{% assign alt_link_text="The Arduino Starter Kit" %}
+{% assign alt_link_uri="http://amzn.to/2hEjRWH" %}
 {% include amazon_right.html %}
-
-
-
