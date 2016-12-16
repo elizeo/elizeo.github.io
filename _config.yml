@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-site_title: Elizeo Blog. Monde digital, informatique, formation, choses de la vie ...
+site_title: Elizeo Blog. Monde digital, informatique, formation.
 title: elizeo
 email: eliseodot@gmail.com
 description: Partage d'humeurs
