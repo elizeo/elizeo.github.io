@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Vers une société de nomades digitaux"
+title:  "Le nomade digital"
 date:   2016-12-11 11:42:44 +0100
 comments: true
-categories: nomade digital travail expat
+categories: nomade digital travail expatrié
 ---
-Les nomades digitaux sont une nouvelle race d'entrepreneurs qui ont choisi de re-définir leur façon de travailler en s'affranchissant d'un espace physique dédié, au profit d'une liberté de mouvement en théorie illimitée.
+Le nomade digital est un nouveau type d'entrepreneur qui a choisi de re-définir sa façon de travailler en s'affranchissant d'un espace physique dédié, au profit d'une liberté de mouvement en théorie illimitée.
 
 Cette nouvelle façon de concevoir le travail ne serait pas possible sans les possibilités de délocalisation et dématérialisation qu'offre internet.
 
@@ -15,7 +15,7 @@ Le nomade digital moyen est quelqu'un de plutôt jeune (moins de 35 ans) et qui 
 
 Il travaille principalement dans des métiers numériques (développement logiciel, marketing en ligne, vente en ligne ...) et est majoritairement de langue maternelle anglo-saxonne. Les américains, les anglais et les australiens sont notamment très bien représentés dans cette communauté. 
 
-## Les motivations du nomadisme
+## Les motivations du nomadisme digital
 
 La première étape avant de devenir nomade, c'est le fait d'être conscient du fait qu'une telle vie est possible, et que d'autres en font l'expérience depuis plusieurs années déjà. Une fois cette conscience développée, les motivations peuvent être multiples :
 
