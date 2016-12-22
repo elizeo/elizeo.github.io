@@ -4,20 +4,11 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading last-posts">Derniers billets</h1>
-  
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <div>
-          <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
-          <div>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </div>
-        </div>
-      </li>
+    {% include home_post.html %}
     {% endfor %}
   </ul>
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Le nomade digital"
+image: "digital_nomad.jpg"
 date:   2016-12-11 11:42:44 +0100
 comments: true
 categories: nomade digital travail expatrié

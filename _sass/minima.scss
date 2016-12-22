@@ -109,3 +109,20 @@ ul.share-buttons .sr-only {
 .last-posts {
   margin-bottom: 40px;
 }
+
+
+.post-list-item {
+  background-color: #FAFAFA;
+  margin:$spacing-unit ;
+  padding: $spacing-unit;
+  border : 1px solid #F4F4F4;
+  a {
+    font-size : 18px;
+    font-family: $base-title-font-family;
+  }
+  .row {
+    margin-bottom: $spacing-unit / 2 ;
+    font-size : 12px;
+    text-align: justify;
+  }
+}

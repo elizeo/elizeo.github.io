@@ -1,0 +1,17 @@
+<div class="container-fluid post-list-item">
+    <div class="row">
+        <div class="col-md-12">
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <p class="post-image">
+                <img src="/" alt="{{post.title}}" srcset="/assets/resized/256/{{post.image}} 256w, /assets/resized/480/{{post.image}} 480w " >
+            </p>
+        </div>
+        <div class="col-md-8">
+            {{post.excerpt}}
+        </div>
+    </div>
+</div>

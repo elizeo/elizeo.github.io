@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Idées cadeaux pour les enfants. Apprendre à programmer."
+image: "apprendre_a_programmer.jpg"
 date:   2016-12-13 22:12:31 +0100
 comments: true
 categories: programmation enfants cadeau code scratch python
