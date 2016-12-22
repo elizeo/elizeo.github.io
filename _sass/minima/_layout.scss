@@ -19,7 +19,7 @@
 
 .site-title {
   color : $color-main-title;
-  font-family : $base-title-font-family;
+  font-family : $base-main-title-font-family;
   font-size: 50px;
   font-weight: 300;
   line-height: 56px;
@@ -121,7 +121,7 @@
  * Site footer
  */
 .site-footer {
-  font-family : $base-title-font-family;
+  font-family : $base-main-title-font-family;
   color:$color-title;
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
@@ -248,6 +248,7 @@
  p {
    text-align: justify;
     margin-bottom : $spacing-unit;
+    font-size: $medium-font-size * 0.75;
  }
 
  object {
@@ -256,7 +257,7 @@
 
   h1 {
     font-family : $base-title-font-family;
-    font-size:35px;
+    font-size: 30px;
     color:$color-title;
     margin-bottom : $spacing-unit;
   }
@@ -264,8 +265,8 @@
   h2 {
     margin-top:60px;
     margin-bottom : $spacing-unit;
-    font-size: 25px;
-    font-family : $base-title-font-family;
+    font-size: 28px;
+    font-family: $base-title-font-family;
     color:$color-title;
     @include media-query($on-laptop) {
       font-size: 28px;
@@ -274,7 +275,7 @@
 
   h3 {
     margin-top:40px;
-    font-size: 20px;
+    font-size: 22px;
     font-family : $base-title-font-family;
     color:$color-title;
     @include media-query($on-laptop) {
@@ -284,7 +285,7 @@
 
   h4 {
     margin-top:20px;
-    font-size: 15px;
+    font-size: 18px;
     color:$color-title;
     font-family : $base-title-font-family;
     @include media-query($on-laptop) {

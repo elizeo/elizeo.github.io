@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "10 idées à prendre en compte avant de construire"
+title:  "10 types de maisons moins conventionnelles"
 image: "bungalow_tiny_house.jpg"
 date:   2016-12-21 11:42:44 +0100
 comments: true
 categories: habitat idées 
 ---
 
-Vous cherchez à construire ? Vous ne savez pas trop quelle architecture choisir ? Partout dans le monde, des gens se sont posé les mêmes questions que vous et se sont parfois orientés en fonction du climat et de leurs moyens sur des choix qui pourraient à première vue paraître étonnants. Mais à y regarder de plus près ... pas tant que ça. 
+Vous cherchez à construire ? Vous ne savez pas trop quelle architecture choisir ? Vous voulez peut-être opter pour une maison qui sorte de la norme, un peu moins conventionnelle ? Partout dans le monde, des gens se sont posé les mêmes questions que vous et se sont parfois orientés en fonction du climat et de leurs moyens sur des choix qui pourraient à première vue paraître étonnants.
 
 Voici une revue de quelques alternatives aux modes de construction traditionnels à tenir en compte avant de construire .
 
@@ -155,7 +155,11 @@ Dan Price l'a fait ! Une leçon de simplicité volontaire et la preuve qu'on peu
 
 ## 9 - Le bus
 
-Si vous avez envie de voyager sans trop sacrifier votre mode de vie et que votre climat le permet (oui car l'isolation peut être un problème ici), vous pouvez toujours aménager un vieux bus. Il a l'avantage d'offrir beaucoup d'espace et par rapport à une Tiny House, il est plus facile à déplacer. Ce mode de vie est souvent décrié et souvent associé à de la précarité, mais dans la pratique il existe autant de réalités que d'individus. Ci-dessous un reportage sur un couple de Français dans un car et une video sur un camping-car / bus avec des aménagements grand luxe.
+Si vous avez envie de voyager sans trop sacrifier votre mode de vie et que votre climat le permet (oui car l'isolation peut être un problème ici), vous pouvez toujours aménager un vieux bus. 
+
+Il a l'avantage d'offrir beaucoup d'espace et par rapport à une Tiny House, il est plus facile à déplacer. 
+
+Ce mode de vie est souvent décrié et souvent associé à de la précarité, mais dans la pratique il existe autant de réalités que d'individus. Ci-dessous un reportage sur un couple de Français dans un car et une video sur un camping-car / bus avec des aménagements grand luxe.
 
 
 {% assign youtube_id="GkPC6kjI21g" %}

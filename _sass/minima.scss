@@ -9,25 +9,34 @@
        url('/assets/fonts/baloo-paaji-v1-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
-/* arvo-regular - latin */
 @font-face {
-  font-family: 'arvo';
+  font-family: 'Rasa Regular';
+  font-style: normal;
+  font-weight: 200;
+  src: url('/assets/fonts/rasa-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/rasa-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+@font-face {
+  font-family: 'Rasa Bold';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/arvo-v9-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url('/assets/fonts/arvo-v9-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url('/assets/fonts/rasa-bold.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/assets/fonts/rasa-bold.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 $color-main-title : #90231f;
 
 $color-title : #172014;
 
-
-$base-title-font-family : Baloo Paaji, sans-serif;
-$base-font-family: Arvo, Arial;
-$base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-main-title-font-family : Baloo Paaji, sans-serif;
+$base-title-font-family : Rasa Bold, sans-serif;
+$base-font-family: Rasa Regular, sans-serif;
+$base-font-size:   18px !default;
+$base-font-weight: 200 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
+$medium-font-size: $base-font-size * 2 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     40px !default;
@@ -117,12 +126,16 @@ ul.share-buttons .sr-only {
   padding: $spacing-unit;
   border : 1px solid #F4F4F4;
   a {
-    font-size : 18px;
+    font-size: $medium-font-size * .75;
     font-family: $base-title-font-family;
   }
   .row {
     margin-bottom: $spacing-unit / 2 ;
-    font-size : 12px;
     text-align: justify;
   }
+}
+
+time {
+    font-family: $base-title-font-family;
+    font-size: $medium-font-size * .5;
 }
