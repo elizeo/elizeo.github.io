@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "10 types de maisons moins conventionnelles"
+title:  "Vous cherchez une maison ou un appartement à vendre ? Lisez ceci maintenant !"
 image: "bungalow_tiny_house.jpg"
 date:   2016-12-21 11:42:44 +0100
 comments: true
-categories: habitat idées 
+categories: habitat idées maison à vendre
 ---
 
-Vous cherchez à construire ? Vous ne savez pas trop quelle architecture choisir ? Vous voulez peut-être opter pour une maison qui sorte de la norme, un peu moins conventionnelle ? Partout dans le monde, des gens se sont posé les mêmes questions que vous et se sont parfois orientés en fonction du climat et de leurs moyens sur des choix qui pourraient à première vue paraître étonnants.
+Vous cherchez une maison à vendre ? Vous ne savez pas trop quoi choisir ? Vous voulez peut-être opter pour une maison qui sorte de la norme, un peu moins conventionnelle ? Partout dans le monde, des gens se sont posé les mêmes questions que vous et se sont parfois orientés en fonction du climat et de leurs moyens sur des choix qui pourraient à première vue paraître étonnants.
 
-Voici une revue de quelques alternatives aux modes de construction traditionnels à tenir en compte avant de construire .
+Voici une revue de quelques alternatives aux modes de construction traditionnels à tenir en compte avant de construire ou acheter une maison ou un appartement.
 
 ## 1 - La Tiny House
 

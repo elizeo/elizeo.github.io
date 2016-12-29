@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Idées cadeaux pour les enfants. Apprendre à programmer."
+title:  "Initiation rapide à la programmation pour les enfants."
 image: "apprendre_a_programmer.jpg"
 date:   2016-12-13 22:12:31 +0100
 comments: true
-categories: programmation enfants cadeau code scratch python
+categories: initiation programmation enfants
 ---
 
-Au lieu d'offrir les cadeaux habituels, qui finiront immanquablement de venir compléter la liste des bibelots oubliés, pourquoi ne pas offrir de la connaissance ? Les parents vous seront redevables. Et expérience vécue, croyez-le ou non, les enfants aussi. Pour le prochain anniversaire de votre neveu, ou pour noël qui approche, offrez du savoir ! Apprendre à programmer avec un livre, ou en s'amusant avec de l'électronique, et si c'était ça le cadeau idéal ?
+Au lieu d'offrir les cadeaux habituels, qui finiront immanquablement de venir compléter la liste des bibelots oubliés, pourquoi ne pas offrir de la connaissance ? Les parents vous seront redevables. Et expérience vécue, croyez-le ou non, les enfants aussi. Pour le prochain anniversaire de votre neveu, ou pour noël qui approche, offrez du savoir ! L'initiation à la programmation avec un livre, ou en s'amusant avec de l'électronique, et si c'était ça le cadeau idéal ?
 
 ## La programmation sera un outil indispensable dans les années 2020 
 

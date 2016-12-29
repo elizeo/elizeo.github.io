@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "A propos de la supposée pénurie d'informaticiens"
+title:  "L'imminente explosion du chômage dans l'informatique"
 image: "penurie_informaticiens.jpg"
 date:   2016-12-01 11:42:44 +0100
 comments: true
-categories: penurie informaticiens travail
+categories: penurie informaticiens travail chômage
 ---
 
-Depuis plusieurs années déjà, on nous prédit régulièrement une catastrophe pour l’économie à cause d’un supposé manque d’informaticiens. D’un autre côté le nombre d’informaticiens au chômage ne cesse d’augmenter dans la plupart des pays européens. Nous avons donc affaire avec un paradoxe pour le moins intriguant. Il s’agit donc de comprendre pourquoi le discours véhiculé par les médias correspond bien à la réalité. 
+Depuis plusieurs années déjà, on nous prédit régulièrement une catastrophe pour l’économie à cause d’un supposé manque d’informaticiens. D’un autre côté le nombre d’informaticiens au chômage ne cesse d’augmenter dans la plupart des pays européens. Nous avons donc affaire avec un paradoxe pour le moins intriguant. Il s’agit donc de comprendre si le discours véhiculé par les médias correspond bien à la réalité du chômage dans l'informatique. 
 
 ## Les faits : informatique et chômage
 
@@ -111,7 +111,7 @@ Au final, presque tout le monde s’y retrouve. Presque, car ceux qui trinquent 
 
 
 
-[Le mythe odieux de la penurie d'informaticiens](http://www.informatiquenews.fr/le-mythe-odieux-de-la-penurie-dinformaticiens-selon-le-munci-349){:target="_blank"}
+[Le mythe odieux de la pénurie d'informaticiens](http://www.informatiquenews.fr/le-mythe-odieux-de-la-penurie-dinformaticiens-selon-le-munci-349){:target="_blank"}
 
 [Le chômage des informaticiens](http://www.zdnet.fr/actualites/chiffres-cles-le-chomage-des-informaticiens-39790265.htm){:target="_blank"}
 

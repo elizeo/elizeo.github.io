@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Le nomade digital"
+title:  "Comment devenir nomade digital d'urgence !"
 image: "digital_nomad.jpg"
 date:   2016-12-11 11:42:44 +0100
 comments: true
-categories: nomade digital travail expatrié
+categories: devenir nomade digital
 ---
-Le nomade digital est un nouveau type d'entrepreneur qui a choisi de re-définir sa façon de travailler en s'affranchissant d'un espace physique dédié, au profit d'une liberté de mouvement en théorie illimitée.
+Le nomade digital est un nouveau type d'entrepreneur qui a choisi de re-définir sa façon de travailler en s'affranchissant d'un espace physique dédié, au profit d'une liberté de mouvement en théorie illimitée. 
 
 Cette nouvelle façon de concevoir le travail ne serait pas possible sans les possibilités de délocalisation et dématérialisation qu'offre internet.
+
+Nous vous exposons ci-dessous quelques éléments pour devenir à votre tour nomade digital.
 
 ## Le profil du nomade digital
 
